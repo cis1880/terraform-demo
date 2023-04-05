@@ -6,7 +6,6 @@ provider "github" {
 locals {
   repository_name = "cis1880-team-project"
   collaborators = [
-    "YOUR-GITHUB-USERNAME-HERE",
     "YOUR-PARTNER-GITHUB-USERNAME-HERE",
   ]
 }

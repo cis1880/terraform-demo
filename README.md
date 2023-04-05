@@ -23,6 +23,7 @@ Now that you've had a chance to look at the terraform configuration files, it's 
 1. Run the following command to initialize your Terraform project:
 
 ```bash
+cd terraform
 terraform init
 ```
 
